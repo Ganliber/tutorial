@@ -1,9 +1,8 @@
 # tutorial
+
 > Links to various learning resources
 
 ## CS plans
-
-***
 
 * CS自救指北 (SJTU)
 
@@ -19,8 +18,6 @@
 
 ## CS Courses
 
-***
-
 * CS国外视频课及lab
 
   [cs-video-courses](https://github.com/Chirag-Bansal/cs-video-courses)
@@ -28,8 +25,6 @@
 
 
 ## CS Labs
-
-***
 
 * CSAPP
 
@@ -39,8 +34,6 @@
 
 ## Forum
 
-***
-
 * HUST自救指南
 
   [awesome-hust](https://github.com/recolic/awesome-hust)
@@ -48,8 +41,6 @@
 
 
 ## Other
-
-***
 
 * VPN
 
