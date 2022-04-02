@@ -1,2 +1,2 @@
 # tutorial
-各种学习资源的链接
+> Links to various learning resources
