@@ -48,3 +48,7 @@
 
   [flybar](https://www.flybar.cc/)
 
+* 思想
+
+  [毛泽东文集](https://github.com/OriginZero/TheGreatLeaderChairmanMAO)
+
