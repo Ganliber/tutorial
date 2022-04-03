@@ -50,5 +50,7 @@
 
 * 思想
 
-  [毛泽东文集](https://github.com/OriginZero/TheGreatLeaderChairmanMAO)
+  [MZD(All)](https://github.com/OriginZero/TheGreatLeaderChairmanMAO)
+
+  [MZD(静火)](https://github.com/SomeyaMako/Selected-Works-of-Mao-Zedong-JingHuo-version)
 
