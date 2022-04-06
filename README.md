@@ -38,7 +38,7 @@
 
   [awesome-hust](https://github.com/recolic/awesome-hust)
 
-* CTF
+* CTF Guide
 
   [github](https://github.com/firmianay/CTF-All-In-One)
 
@@ -46,7 +46,9 @@
 
   [book pwn 源码](https://github.com/firmianay/ctf-book)
   
-  
+* Pwn
+
+  [pwn tutorial](https://github.com/CHYbeta/Software-Security-Learning)
 
 ## Other
 
