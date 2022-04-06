@@ -46,4 +46,10 @@
   reboot
   ```
 
-* 
+* 如果github遇见
+
+  ```
+  fatal : unable to access ...
+  ```
+
+  可以把代理关掉之后再试，且以`ssh`为主
