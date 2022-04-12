@@ -15,6 +15,10 @@
 * CS自救指南
 
   [cs-first-aid](https://github.com/AndyBRoswell/cs-first-aid)
+  
+* THU一大佬的blog
+
+  [RUN](https://trinkle23897.github.io/)
 
 ## CS Courses
 
