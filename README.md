@@ -33,8 +33,10 @@
 * CSAPP
 
   [Lab1~Lab3](https://github.com/wuxueqian14/CSAPP-Lab)
+  
+* JYY_OS
 
-
+  [jyywiki-OS](http://jyywiki.cn/OS/2022/)
 
 ## Forum
 
@@ -53,6 +55,12 @@
 * Pwn
 
   [pwn tutorial](https://github.com/CHYbeta/Software-Security-Learning)
+  
+* LeetCode
+
+  [Algorithm Plans](https://github.com/acm-clan/algorithm-stone)
+
+  
 
 ## Other
 
@@ -62,9 +70,13 @@
 
   [flybar](https://www.flybar.cc/)
 
-* 思想
+* Thinking
 
   [MZD(All)](https://github.com/OriginZero/TheGreatLeaderChairmanMAO)
 
   [MZD(静火)](https://github.com/SomeyaMako/Selected-Works-of-Mao-Zedong-JingHuo-version)
+  
+  [RUN](https://github.com/The-Run-Philosophy-Organization/run)
+  
+  
 
