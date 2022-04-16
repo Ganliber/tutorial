@@ -37,6 +37,22 @@
 * JYY_OS
 
   [jyywiki-OS](http://jyywiki.cn/OS/2022/)
+  
+* uCore OS
+
+  [THU-ucore](https://objectkuan.gitbooks.io/ucore-docs/content/)
+
+* writing-an-OS-in-rust
+
+  [OS in rust](https://github.com/rustcc/writing-an-os-in-rust)
+
+* rCore
+
+  [THU-rcore](https://github.com/rcore-os/rCore)
+
+  [rcore V3](https://rcore-os.github.io/rCore-Tutorial-deploy/)
+
+  [rcore V2](https://rcore-os.github.io/rCore_tutorial_doc/)
 
 ## Forum
 
