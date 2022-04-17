@@ -2,6 +2,8 @@
 
 > Links to various learning resources
 
+[TOC]
+
 ## CS plans
 
 * CS自救指北 (SJTU)
@@ -16,7 +18,7 @@
 
   [cs-first-aid](https://github.com/AndyBRoswell/cs-first-aid)
   
-* THU一大佬的blog
+* THU一大佬的 blog
 
   [RUN](https://trinkle23897.github.io/)
 
@@ -30,9 +32,11 @@
 
 ## CS Labs
 
-* CSAPP
+* ISA
 
-  [Lab1~Lab3](https://github.com/wuxueqian14/CSAPP-Lab)
+  [CSAPP-lab123](https://github.com/wuxueqian14/CSAPP-Lab)
+  
+  [NJU-ISA](https://nju-projectn.github.io/ics-pa-gitbook/ics2020/)
   
 * JYY_OS
 
@@ -53,6 +57,14 @@
   [rcore V3](https://rcore-os.github.io/rCore-Tutorial-deploy/)
 
   [rcore V2](https://rcore-os.github.io/rCore_tutorial_doc/)
+
+
+
+## CS Tools
+
+* Tools Course
+
+  [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/) 
 
 ## Forum
 
@@ -96,3 +108,6 @@
   
   
 
+## Interesting Expression
+
+* `RTFM`：是一個英文縮寫，意思是：「去讀那些他媽的手冊」（英語：Read The Fucking Manual），這句話通常用在回覆那些只要查閱文件就可以解決，拿出來提問只是浪費別人時間的問題。
