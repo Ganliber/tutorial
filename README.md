@@ -88,7 +88,9 @@
 
   [Algorithm Plans](https://github.com/acm-clan/algorithm-stone)
 
-  
+* C 标准库 与 linux 系统编程
+
+  [C std](https://linux-c-learning-all-in-one.readthedocs.io/zh_CN/latest/stdlib/index.html)
 
 ## Other
 

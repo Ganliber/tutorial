@@ -10,7 +10,7 @@
 
 ***
 
-##### 开机时无法加载GUI
+### 开机时无法加载GUI
 
 > Ubuntu 20.04 出现错误, 开机卡在了启动图形界面之前
 
@@ -66,7 +66,7 @@ bash
 
 进入bash模式即可
 
-##### 普通用户不能使用sudo
+### 普通用户不能使用sudo
 
 进入root, 配置文件`/etc/sudoers`, 使root对其有写权限
 
@@ -80,9 +80,13 @@ chmod u+w /etc/sudoers
 stuart  ALL=(ALL) ALL
 ```
 
+### linux 磁盘容量不够
 
+扩容：[Ubuntu磁盘扩容](https://blog.csdn.net/qq_46170379/article/details/116808669?spm=1001.2101.3001.6650.3&utm_medium=distribute.pc_relevant.none-task-blog-2~default~CTRLIST~default-3.fixedcolumn&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2~default~CTRLIST~default-3.fixedcolumn)
 
+<img src="C:\Users\XiZhongKuiYue\AppData\Roaming\Typora\typora-user-images\image-20220419235211210.png" alt="image-20220419235211210" style="zoom:50%;" />
 
+成功！
 
 ## Verbs
 
@@ -92,6 +96,12 @@ stuart  ALL=(ALL) ALL
 
 
 
+
+## Windows
+
+### 快捷键
+
+* `win + shift + S`截图，可以找到粘贴板打开后编辑
 
 
 
