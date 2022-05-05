@@ -27,6 +27,10 @@
 * CS国外视频课及lab
 
   [cs-video-courses](https://github.com/Chirag-Bansal/cs-video-courses)
+  
+* Rust Book
+
+  [rust tutorial](https://doc.rust-lang.org/book/)
 
 
 
@@ -113,3 +117,4 @@
 ## Interesting Expression
 
 * `RTFM`：是一個英文縮寫，意思是：「去讀那些他媽的手冊」（英語：Read The Fucking Manual），這句話通常用在回覆那些只要查閱文件就可以解決，拿出來提問只是浪費別人時間的問題。
+* `CLI`：CLI（command-line interface，命令行界面）
