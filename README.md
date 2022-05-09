@@ -31,6 +31,8 @@
 * Rust Book
 
   [rust tutorial](https://doc.rust-lang.org/book/)
+  
+  [rust 中文教程](https://github.com/sunface/rust-course)
 
 
 

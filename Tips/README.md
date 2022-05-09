@@ -109,6 +109,14 @@ stuart  ALL=(ALL) ALL
 
 
 
+## Docker
+
+***
+
+* Docker 配 VSCode
+
+  > 打开本地Docker，打开VSCode进入docker然后右键点击相应容器如`ubuntu:20.04` ---> `attach shell`即可连接docker 的命令行`CLI`
+
 
 
 
