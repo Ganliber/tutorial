@@ -32,7 +32,9 @@
 
   [rust tutorial](https://doc.rust-lang.org/book/)
   
-  [rust 中文教程](https://github.com/sunface/rust-course)
+  [rust 圣经仓库](https://github.com/sunface/rust-course)
+  
+  [rust 中文教程](https://course.rs/about-book.html)
 
 
 
