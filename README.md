@@ -35,6 +35,10 @@
   [rust 圣经仓库](https://github.com/sunface/rust-course)
   
   [rust 中文教程](https://course.rs/about-book.html)
+  
+  [rust proj1](https://github.com/rustcc/awesome-rust)
+  
+  [rust proj2](https://github.com/rust-unofficial/awesome-rust)
 
 
 
@@ -103,6 +107,10 @@
 * 编程语言排行
 
   [TIOBE](https://www.tiobe.com/tiobe-index/)
+  
+* 电子书库
+
+  [Z-Library : The world's largest ebook library.](https://zh.de1lib.org/)
 
 ## Other
 

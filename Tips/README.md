@@ -121,3 +121,69 @@ stuart  ALL=(ALL) ALL
 
 
 
+## VM connected by vscode
+
+***
+
+> 关于参考链接，越靠下越靠谱（目前来说都解决了，只需要把`Git\usr\bin\ssh.exe`作为`vscode`的相应的`remote.ssh.path`即可）
+
+* Link-> [Virtual Machine Connected by VSCode](https://www.cnblogs.com/hi3254014978/p/12681594.html)
+
+  关于virtualbox的-> [VirtualBox connection configure](https://www.littlezhang.com/2019/08/%E4%BD%BF%E7%94%A8vscode-ssh%E8%BF%9E%E6%8E%A5linux%E8%99%9A%E6%8B%9F%E6%9C%BA/)
+
+  有效的方案 -> [VirtualBox and vscode build develop environment](https://blog.ceba.tech/2019/05/Development-with-VM-VSCode/index.html)
+
+* 安装`extension` --> `Remote-SSH`
+* 打开`>ssh setting`，勾选`Remote.SSH:Show Login Terminal`
+
+### 关于VitualBox的配置Configure
+
+* 设置->网络->(选择一个NAT连接模式的网卡)高级->新建一个TCP连接->自定义主机端口和用户端口
+* vscode 中的 Port 设置为自定义的主机端口
+
+
+
+### error:写入管道不存在
+
+详细的看了一下vscode的报错日志，才知道原来是本地的known_hosts文件记录服务器信息与现服务器的信息冲突了，导致连接失败。
+
+解决办法：
+删除`C:/User/xxx/.ssh/known_hosts`文件，然后重新连接即可。
+
+
+
+### 关键问题解决
+
+> 将默认的`ssh.exe`切换成`git`安装目录下的`ssh.exe`，因为这个才是基于`linux`环境的！！！！！
+
+更改方法
+
+* vscode:
+
+  * Remote.ssh.path改为`git安装目录\Git\usr\bin\ssh.exe`
+
+* 配置即可
+
+  * 注意默认连接端口是 22
+
+* ubuntu 中的 git 版本可能较低，以下是更新 git 版本的方法
+
+  ```bash
+  sudo apt update  # 更新源
+  sudo apt install software-properties-common # 安装 PPA 需要的依赖
+  sudo apt-get install --reinstall ca-certificates # 使得ppa能够被识别
+  sudo add-apt-repository ppa:git-core/ppa    # 向 PPA 中添加 git 的软件源
+  sudo apt-get update
+  sudo apt-get install git # 更新git
+  
+  git --version # 
+  ```
+
+* 出现以下结果即说明连接成功，此时只需要在---资源管理器---中选择相应的文件夹即可纵享丝滑。
+
+  <img src="D:\github\tutorial\image\vscode_connecting_virtualbox_success.png" alt="image-20220524150834365" style="zoom: 50%;" />
+
+
+
+
+
