@@ -22,6 +22,8 @@
 
   [RUN](https://trinkle23897.github.io/)
 
+
+
 ## CS Courses
 
 * CS国外视频课及lab
@@ -78,6 +80,8 @@
 
   [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/) 
 
+
+
 ## Forum
 
 * HUST自救指南
@@ -111,6 +115,10 @@
 * 电子书库
 
   [Z-Library : The world's largest ebook library.](https://zh.de1lib.org/)
+  
+* 蒸米的`ROP_x64`安全博客
+
+  https://segmentfault.com/a/1190000007406442
 
 
 
@@ -119,7 +127,10 @@
 * Heap Exploit Tools : main_arene_offset
 
   https://github.com/bash-c/main_arena_offset.git
+  
+* shell-storm
 
+  [A shellcode database](https://shell-storm.org/shellcode/)
 
 
 
@@ -140,7 +151,13 @@
   
   [RUN](https://github.com/The-Run-Philosophy-Organization/run)
   
+* build vpn by yourself
+
+  https://haoel.github.io/
+
   
+
+
 
 ## Interesting Expression
 
